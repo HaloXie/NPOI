@@ -1,0 +1,21 @@
+﻿/*表格单线*/
+.table
+{
+    margin: 0px;
+    padding: 0px;
+    clear: both;
+}
+
+    .table table
+    {
+        border-top: 1px solid #D0D8E5;
+        border-left: 1px solid #D0D8E5;
+    }
+
+    .table td
+    {
+        border-bottom: 1px solid #D0D8E5;
+        border-right: 1px solid #D0D8E5;
+        border: 1px solid #D0D8E5;
+        padding-left: 5px;
+    }

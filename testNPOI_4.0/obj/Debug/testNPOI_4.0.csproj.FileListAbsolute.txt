@@ -1,0 +1,13 @@
+E:\test\testNPOI_4.0\testNPOI_4.0\bin\testNPOI_4.0.dll
+E:\test\testNPOI_4.0\testNPOI_4.0\bin\testNPOI_4.0.pdb
+E:\test\testNPOI_4.0\testNPOI_4.0\bin\ICSharpCode.SharpZipLib.dll
+E:\test\testNPOI_4.0\testNPOI_4.0\bin\NPOI.dll
+E:\test\testNPOI_4.0\testNPOI_4.0\bin\NPOI.OOXML.dll
+E:\test\testNPOI_4.0\testNPOI_4.0\bin\NPOI.OpenXml4Net.dll
+E:\test\testNPOI_4.0\testNPOI_4.0\bin\NPOI.OpenXmlFormats.dll
+E:\test\testNPOI_4.0\testNPOI_4.0\bin\NPOI.xml
+E:\test\testNPOI_4.0\testNPOI_4.0\bin\NPOI.OOXML.xml
+E:\test\testNPOI_4.0\testNPOI_4.0\bin\NPOI.OpenXml4Net.xml
+E:\test\testNPOI_4.0\testNPOI_4.0\obj\Debug\testNPOI_4.0.dll
+E:\test\testNPOI_4.0\testNPOI_4.0\obj\Debug\testNPOI_4.0.pdb
+E:\test\testNPOI_4.0\testNPOI_4.0\obj\Debug\testNPOI_4.0.csprojResolveAssemblyReference.cache
