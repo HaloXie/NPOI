@@ -115,6 +115,15 @@ namespace testNPOI_4._0
                 file.WriteTo(Response.OutputStream);
             }
         }
+        
+        private void SetCellWidth(ISheet sheet,int cellIndex, ICell cell,int cellWidth = 0)
+        {
+            if(cellWidth == 0)
+            {
+                cellWidth = Encoding.Default.GetBytes(cell.ToString()).Length * 300;
+            }          
+            sheet1.SetColumnWidth(cellIndex, cellWidth);
+        }
 
         //创建style
         private Dictionary<String, ICellStyle> createStyles(IWorkbook wb)
