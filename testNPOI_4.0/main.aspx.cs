@@ -122,7 +122,7 @@ namespace testNPOI_4._0
             {
                 cellWidth = Encoding.Default.GetBytes(cell.ToString()).Length * 300;
             }          
-            sheet1.SetColumnWidth(cellIndex, cellWidth);
+            sheet.SetColumnWidth(cellIndex, cellWidth);
         }
 
         //创建style
